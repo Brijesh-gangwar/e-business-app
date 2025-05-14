@@ -11,9 +11,6 @@ RentApp is a Flutter-based car rental application that helps users find, view, a
 - 📱 Beautiful and responsive UI
 - 💬 Dark mode support (optional)
 
-## 📷 Screenshots
-
-_Add screenshots of your app here (Home page, Map screen, Login screen, etc.)_
 
 ## 🧰 Tech Stack
 
