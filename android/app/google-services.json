@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449844666249",
+    "project_id": "e-business-7b47e",
+    "storage_bucket": "e-business-7b47e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449844666249:android:2ff967c0b207c80ca54b58",
+        "android_client_info": {
+          "package_name": "com.example.e_business"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGGKnTo3srCYADGNcRtfr0pIkOqMYkI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
